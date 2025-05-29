@@ -1,0 +1,1 @@
+print ("aleeex gantengg bangettt kacau")
