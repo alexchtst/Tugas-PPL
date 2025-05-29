@@ -45,3 +45,5 @@ def delete_item(item_id: int):
             del items[i]
             return {"message": "Item deleted"}
     raise HTTPException(status_code=404, detail="Item not found")
+
+print("hahaha")
